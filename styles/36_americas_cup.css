@@ -14,8 +14,9 @@ header
 h1    /* Style à appliquer sur les titres h1 */
 {
   text-align: center;
-  color: #0A6FB0;
+  color: blue;
   letter-spacing: 0.5em;
+  
 }
 h2     /* Style à appliquer sur les sous-titres h2 */
 {
@@ -24,7 +25,7 @@ h2     /* Style à appliquer sur les sous-titres h2 */
 p em  /* Mise en évidence */
 {
   font-weight: bold;
-  color: #0A6FB0;
+  color: red;
 }
 p      /* Style à appliquer sur les paragraphes */
 {
